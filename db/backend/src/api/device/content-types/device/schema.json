@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "devices",
+  "info": {
+    "singularName": "device",
+    "pluralName": "devices",
+    "displayName": "devices"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "mac": {
+      "type": "string"
+    },
+    "code": {
+      "type": "string"
+    }
+  }
+}
